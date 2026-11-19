@@ -2,3 +2,4 @@
 Realizando cambios en el readme por medio de una pull request - Harry Asier Ordóñez Álava
 - Buenaventura Gutierrez Andrea
 Se utilizarán ramas independientes y el proceso de Merge para integrar las modificaciones.- Soto Jeremy
+- Prueba video 
